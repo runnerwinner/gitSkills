@@ -1,3 +1,3 @@
 Creating a new branch is quick and simple.
 no fast forward test.
-test stash
+test stash issue-101
